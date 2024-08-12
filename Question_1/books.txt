@@ -1,0 +1,8 @@
+[
+    {
+        "book_id": 1,
+        "title": "Python Programming",
+        "author": "John Doe",
+        "copies": 3
+    }
+]
